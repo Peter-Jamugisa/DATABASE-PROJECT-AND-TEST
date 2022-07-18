@@ -1,0 +1,10 @@
+SELECT arrival_time FROM shipping_info JOIN details ON details.package_id=shipping_info.package_no JOIN item ON item.item_id=details.ticket_no WHERE item.address LIKE "%mombasa%";
+
+SELECT name,depature_time,arrival_time,goods_ordered,amount_paid FROM shipping_info JOIN details ON details.package_id=shipping_info.package_no JOIN item ON item.item_id=details.ticket_no WHERE shipping_info.goods_ordered LIKE "%samsung%" ORDER BY item.name;
+
+SELECT name,contact,gender FROM item WHERE item_id IN(SELECT ticket_no FROM details WHERE package_id IN(SELECT package_no FROM shipping_info WHERE goods_ordered LIKE "%samsung%"));
+
+SELECT COUNT(name) FROM item WHERE gender LIKE "male%";
+
+SELECT amount_paid,ticket_no FROM details WHERE package_id IN(SELECT package_no FROM shipping_info WHERE depature_time LIKE "%08:00AM%");
+

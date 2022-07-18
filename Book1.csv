@@ -1,0 +1,30 @@
+passenger_ids,names,addresses,contacts,genders,ages,ticket_nos,amount_paids,package_ids,depature_dates,depature_times,arrival_times,package_nos,goods_ordereds
+1,Jamugisa Peter,mombasa ,778376731,male,26,1,"200,000",s001,december 30 2021,08:00AM,02:00AM,s001,iphone 5
+2,nyadoyi charity,mombasa ,755373828,female,23,2,"500,000",s002,october 17 2021,12:00PM,17:00PM,s002,samsung mini refrigirator
+3,sekamatte soul,portbell,783728263,male,57,3,"450,000",s003,november 21 2021,16:00PM,20:00AM,s003,hisence flat screen 32 inch
+4,muganga charkes,darelsalum,783642123,male,45,4,"2,000,000",s004,June 1 2021,20:00 PM,06:00AM,s004,samsung refrigirator
+5,nalule jovia,mombasa ,755234232,female,34,5,"2,700,000",s005,january 2 2022,08:00AM,02:00AM,s005,hp elite book laptop
+6,sebugwwo jovlet,portbell,765352424,female,23,6,"800,000",s006,may 5 2022,08:00AM,02:00AM,s006,dell desktop
+7,kemigisha viola,darelsalum,756637636,female,76,7,"470,000",s007,august 8 2021,12:00PM,00:00AM,s007,hisence flat screen 32 inch
+8,luzige martin,mombasa ,786556256,male,33,8,"2,500,000",s008,march 3 2022,10:00AM,17:00PM,s008,samsung galaxy s10
+9,john paul,mombasa ,786564556,male,64,9,"3,000,000",s009,april 4 2022,08:00AM,02:00AM,s009,washing machine
+10,odye charity,mombasa ,756524627,female,45,10,"2,000,000",s010,may 4 2022,12:00PM,16:00PM,s010,samsung flat screen
+11,bwire mark,darelsalum,745825623,male,22,11,"3,500,000",s011,october 7 2021,12:00PM,15:30PM,s011,sony refrigirator
+12,okello charles,portbell,784451984,male,22,12,"400,000",s012,november 1 2021,16:00PM,00:00AM,s012,chang hong flat screen
+13,nelly ketra,portbell,708722983,female,45,13,"3,400,000",s013,June 1 2022,16:00PM,21:00PM,s013,iphone 13
+14,innocent smith,portbell,785172782,male,35,14,"2,200,000",s014,january 2 2021,08:00AM,02:00AM,s014,iphone 12
+15,muwanguzi isaac,mombasa ,746672782,male,62,15,"450,000",s015,may 5 2021,20:00 PM,01:00AM,s015,camon carmera
+16,byamugisha gift,mombasa ,784666627,female,27,16,"400,000",s016,august 8 2021,12:00PM,01:00AM,s016,inflatable air seat
+17,yawe samuel,darelsalum,765645263,male,23,17,"4,560,000",s017,march 3 2022,08:00AM,02:00AM,s017,5 seater wood arm sofa
+18,owamazima charity,darelsalum,789665456,female,56,18,"3,450,000",s018,april 19 2021,10:00AM,18:00PM,s018,wooden centre table
+19,ainembabazi esther,darelsalum,745262656,female,34,19,"1,200,000",s019,january 23 2022,12:00PM,18:00PM,s019,samsung galaxy s9+
+20,nakintu shadia,mombasa ,768836262,female,56,20,"566,000",s020,may 23 2022,08:00AM,02:00AM,s020,smart watch
+21,ankunda faith,mombasa ,783836373,female,34,21,"700,000",s021,august 28 2021,14:00AM,17:00PM,s021,vintage wedding ring
+22,masai elijah,darelsalum,773820928,male,23,22,"65,000",s022,march 3 2021,12:00PM,17:00PM,s022,tempreture smart ring
+23,kyomugisha gift,portbell,767363728,female,23,23,"35,000",s023,april 4 2020,08:00AM,02:00AM,s023,mens wallet
+24,namperra anita,portbell,752756521,female,24,24,"45,000",s024,may 25 2020,10:00AM,13:00PM,s024,swelfie stick
+25,kure peter,mombasa ,765328262,male,54,25,"630,000",s025,october 5 2020,12:00PM,18:00PM,s025,gas cooker
+26,mukasa saidi,darelsalum,765372522,male,34,26,"350,000",s026,november 23 2021,08:00AM,02:00AM,s026,rechargeable blender
+27,katwesige richi,mombasa ,764272682,male,29,27,"100,000",s027,June 12 2022,12:00PM,16:00PM,s027,electric kettle
+28,owora richard,darelsalum,754363433,male,20,28,"70,000",s028,january 24 2021,10:00AM,17:00PM,s028,phillips flat iorn
+29,senyondo richard,mombasa ,783657625,male,38,29,"3,000,000",s029,feburary 7 2022,08:00AM,12:00PM,s029,hisence flat screen 48 inch
