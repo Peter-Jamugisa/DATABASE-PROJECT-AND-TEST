@@ -1,0 +1,23 @@
+This project enables a shipping company keep details of their customers . it keeps records of customer orders ,shipping information and package details.
+Summary of information
+item
+item_id
+name
+address
+contact
+gender
+Age
+
+details
+ticket_no
+amount_paid
+package_id
+
+
+Shipping_info
+Departure_date
+Departure_time
+arrival_times
+package_nos
+goods_ordered
+
